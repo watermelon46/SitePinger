@@ -1,2 +1,7 @@
 # SitePinger
-Very simple site pinger maked on python.
+Невероятно простой сайтпингер на Python.
+
+
+Зависимости:
+  requests (pip install requests)
+  

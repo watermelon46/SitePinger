@@ -5,3 +5,4 @@
 Зависимости:
   requests (pip install requests)
   
+made by holinim with ❤
